@@ -76,8 +76,6 @@ figure {
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
-  -webkit-filter: blur(30px);
-  filter: blur(30px);
 }
 .progressiveMedia .progressiveMedia-image {
   opacity: 0;
