@@ -56,7 +56,7 @@ Download and extract the file and see index.html to see the demo.
   ```
 
 Credits to <a href="https://halcyonwebdesign.com.ph/" target="_blank">Halcyon Web Design</a>
-
+<br>
 
 TODO
 - check(put lazyload in progressiveMedia-thumbnail).
