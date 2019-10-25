@@ -1,3 +1,7 @@
+// Pure-media v1.0
+
+// Developer: https://github.com/localnetwork/
+
 ;(function() {
     'use strict';
 
