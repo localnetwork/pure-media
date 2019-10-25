@@ -3,9 +3,9 @@
 
 # Medium - Progressive Image Loading + Lazysizes (Lazyloading Images)
 
-<center>
+<p align="center">
   <img src="screenshots/screenshot.jpg" style="max-width:200px;">
-</center>
+</p>
 
 <blockquote>Medium is a tiny, pure JavaScript library for Progressive Image Loading with a blur effect to reduce the page load time; as seen on [Medium](https://medium.com/designing-medium/image-zoom-on-medium-24d146fc0c20) and the [lazyload functionality](https://github.com/aFarkas/lazysizes). </blockquote>
 
