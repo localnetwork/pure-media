@@ -58,9 +58,5 @@ Download and extract the file and see index.html to see the demo.
   <div class="progressiveMedia lazyload" data-width="1920" data-height="1080">
   ```
 
-Credits to <a href="https://halcyonwebdesign.com.ph/" target="_blank">Halcyon Web Design</a>
+Credits to <a href="https://halcyonwebdesign.com.ph/" target="_blank">Halcyon Web Design</a> for development time.
 <br>
-
-TODO
-- check(put lazyload in progressiveMedia-thumbnail).
-
