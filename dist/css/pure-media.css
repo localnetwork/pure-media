@@ -34,7 +34,7 @@ figure {
 }
 
 .progressiveMedia-thumbnail {
-  display: none;
+  display: none !important;
 }
 
 .progressiveMedia-canvas {
