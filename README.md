@@ -16,7 +16,7 @@ Download and extract the file and see index.html to see the demo.
 
 ### Note: Good only for non-transparent image.
 
-### How
+### How to use
 
 1. Link files to your site or application (add `<script>` to bottom of page)
 
