@@ -1,7 +1,7 @@
 
 
 
-# Pure Media - Progressive Image Loading with Lazyload using lazysizes library.
+# Pure Media - Progressive Lazyloading Loading using lazysizes library.
 
 <p align="center">
   <img src="screenshots/screenshot.jpg" style="max-width:200px;">
