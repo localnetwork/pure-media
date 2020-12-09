@@ -7,7 +7,7 @@
   <img src="screenshots/screenshot.jpg" style="max-width:200px;">
 </p>
 
-<blockquote>Pure Media is a javascript library for Progressive Image Loading with a blur effect to reduce the page load time on your website. This library uses lazysizes(lazyload) to defer offscreen images. This adds padding to add height to the element.</blockquote>
+<blockquote>Pure Media is a javascript library for Progressive Image Loading with a blur effect to reduce the page load time of your website. This library uses lazysizes(lazyload) to defer offscreen images. This adds padding to add height to the element.</blockquote>
 
 ### Requirements
 1. Lazysizes
