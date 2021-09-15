@@ -14,7 +14,7 @@
 
 ### Demo
 
-Download and extract the file and see index.html to see the demo.
+https://localnetwork.github.io/pure-media/index.html
 
 
 ### Note: Good only for non-transparent image.
